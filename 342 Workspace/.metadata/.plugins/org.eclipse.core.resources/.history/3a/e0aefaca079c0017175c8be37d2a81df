@@ -9,7 +9,7 @@
 	(let ((a 1)) (- (let ((a 22)) a) a))
 	(let ((b 21)) (* (let ((b 1)) b) b))
 3.
-	a. e->let->
+	a.
 	b.
 	c.
 4.

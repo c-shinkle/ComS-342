@@ -9,12 +9,4 @@
 	(let ((a 1)) (- (let ((a 22)) a) a))
 	(let ((b 21)) (* (let ((b 1)) b) b))
 3.
-	a. e->let->
-	b.
-	c.
-4.
-	a. bound: a; free: None
-	b. bound: c, s; free p
-	c. bound: g, x, y; free None
-	d. bound: x, ; free s, y
-	e. bound: q, r; free None
+	
