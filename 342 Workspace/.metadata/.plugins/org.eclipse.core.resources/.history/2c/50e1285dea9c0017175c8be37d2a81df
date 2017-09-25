@@ -9,7 +9,9 @@
 	(let ((a 1)) (- (let ((a 22)) a) a))
 	(let ((b 21)) (* (let ((b 1)) b) b))
 3.
-	See parseTree.pdf	
+	a. e->let->
+	b.
+	c.
 4.
 	a. bound: a; free: None
 	b. bound: c, s; free p

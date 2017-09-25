@@ -105,10 +105,10 @@ grammar ArithLang;
  MemClr : 'Mclr' ;
  MemAdd : 'M+' ;
  MemSub : 'M-' ;
- Prime  : 'prime' ;
+ Prime : 'prime' ;
  Define : 'define' ;
- Let    : 'let' ;
- Dot    : '.' ;
+ Let : 'let' ;
+ Dot : '.' ;
 
  Number : DIGIT+ ;
 
